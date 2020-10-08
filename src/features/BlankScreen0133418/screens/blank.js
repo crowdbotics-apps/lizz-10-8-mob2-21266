@@ -24,28 +24,28 @@ export class _Blank extends React.Component {
 
   state = {
     TextInput_9:
-      "Sample text input value overflow=visible. Sample text input value overflow=visible. Sample text input value overflow=visible. Sample text input value overflow=visible",
+      "1 Sample text input value overflow=visible. 2 Sample text input value overflow=visible. 3 Sample text input value overflow=visible. 4 Sample text input value overflow=visible",
     TextInput_11:
-      "Sample text input value overflow=hidden. Sample text input value overflow=hidden. Sample text input value overflow=hidden. Sample text input value overflow=hidden. ",
+      "1 Sample text input value overflow=hidden. 2 Sample text input value overflow=hidden. 3 Sample text input value overflow=hidden. 4 Sample text input value overflow=hidden. ",
     TextInput_13:
-      "Sample text input value overflow=scroll. Sample text input value overflow=scroll. Sample text input value overflow=scroll. Sample text input value overflow=scroll."
+      "1 Sample text input value overflow=scroll. 2 Sample text input value overflow=scroll. 3 Sample text input value overflow=scroll. 4 Sample text input value overflow=scroll."
   }
 
   render = () => (
     <View style={styles.View_1}>
       <Text style={styles.Text_3}>
-        Sample text content overflow=visible. Sample text content
-        overflow=visible. Sample text content overflow=visible. Sample text
+        1 Sample text content overflow=visible. 2 Sample text content
+        overflow=visible. 3 Sample text content overflow=visible. 4 Sample text
         content overflow=visible.
       </Text>
       <Text style={styles.Text_5}>
-        Sample text content overflow=hidden. Sample text content
-        overflow=hidden. Sample text content overflow=hidden. Sample text
+        1 Sample text content overflow=hidden. 2 Sample text content
+        overflow=hidden. 3 Sample text content overflow=hidden. 4 Sample text
         content overflow=hidden.
       </Text>
       <Text style={styles.Text_7}>
-        Sample text content overflow=scroll. Sample text content
-        overflow=scroll. Sample text content overflow=scroll. Sample text
+        1 Sample text content overflow=scroll. 2 Sample text content
+        overflow=scroll. 3 Sample text content overflow=scroll. 4 Sample text
         content overflow=scroll.
       </Text>
       <TextInput
