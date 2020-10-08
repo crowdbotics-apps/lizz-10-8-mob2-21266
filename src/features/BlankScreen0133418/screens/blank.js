@@ -33,21 +33,6 @@ export class _Blank extends React.Component {
 
   render = () => (
     <View style={styles.View_1}>
-      <Text style={styles.Text_3}>
-        1 Sample text content overflow=visible. 2 Sample text content
-        overflow=visible. 3 Sample text content overflow=visible. 4 Sample text
-        content overflow=visible.
-      </Text>
-      <Text style={styles.Text_5}>
-        1 Sample text content overflow=hidden. 2 Sample text content
-        overflow=hidden. 3 Sample text content overflow=hidden. 4 Sample text
-        content overflow=hidden.
-      </Text>
-      <Text style={styles.Text_7}>
-        1 Sample text content overflow=scroll. 2 Sample text content
-        overflow=scroll. 3 Sample text content overflow=scroll. 4 Sample text
-        content overflow=scroll.
-      </Text>
       <TextInput
         placeholder="Sample text input placeholder overflow=visible"
         editable={true}
